@@ -7,4 +7,4 @@ here are the steps to follow
 1. just enter ur token in env. go to tools then secret then you create a new file named "token" and in value, enter bot token!
 2. go to heroku, login or sign up. then this repl will be 24/7 for extra help see youtube
 3. enjoy with the bot! bot cmd code SOON!
-4. See the server your bot is online but it won't do anything. it's just 24/7 online
+4. See the server your bot is online but it won't do anything. it's just 24/7 online.
