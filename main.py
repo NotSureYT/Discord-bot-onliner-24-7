@@ -1,5 +1,5 @@
 import discord
-import os
+import o
 from discord.ext import commands
 
 client=commands.bot(command_prefix="your prefix here")
